@@ -15,7 +15,7 @@
 
 Hi, I'm [Krishnendu Patra!](https://krishnendupatra.cf/), a passionate self-learner Full Stack Web Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/krishdu/krishdu/blob/master/coding-freak.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/krishdu/krishdu/blob/main/coding-freak.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
