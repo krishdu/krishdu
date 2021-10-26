@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Krishnendu.
 <h2 align="center"></h2>
-<a href="https://www.linkedin.com/in/krishnendu-patra-9b30bb149/">
+<a href="https://www.linkedin.com/in/krishnendu-patra/">
   <img align="left" alt="Krishnendu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
