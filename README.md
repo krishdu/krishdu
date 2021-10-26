@@ -20,7 +20,7 @@ Hi, I'm [Krishnendu Patra!](https://krishdu.github.io/), a passionate self-learn
 **Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@krishnendu](https://twitter.com/Krishne40070277)
+- 📫 How to reach me: [📧](mailto:krishdu.p@gmail.com?subject=[GitHub]%20Source%20)
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -41,6 +41,7 @@ Hi, I'm [Krishnendu Patra!](https://krishdu.github.io/), a passionate self-learn
 
 📈 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=krishdu&show_icons=true&theme=gotham" alt="krishdu" />
+
 
 
 
